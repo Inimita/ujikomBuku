@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { useNavigate } from "react-router-dom";
-
+import { useNavigate, Link } from "react-router-dom";
 const Register = () => {
     const [nama, setNama] = useState("");
     const [email, setEmail] = useState("");
@@ -81,11 +80,12 @@ const Register = () => {
                     </button>
                 </form>
                 <p className="mt-4 text-sm text-center">
-                    Sudah punya akun? <a href="/login" className="text-blue-500">Login</a>
+                    Sudah punya akun?
+                    <Link to="/login" className="text-blue-500">Login</Link>
                 </p>
             </div>
         </div>
     );
 };
-
+3
 export default Register;
