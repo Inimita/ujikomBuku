@@ -26,8 +26,8 @@ function App() {
         <Route path="/admin/dashboard" element={<AdminDashboard/>} />
         <Route path="/user/getMe" element={<GetMe/>}/>
         <Route path="/admin/getUsers" element={<GetUsers/>}/>
-        <Route path='/admin/dashboard/addBuku' element={<AddBuku/>}/>
-        <Route path='admin/dashboard/buku' element={<ListBukuAdmin/>}/>
+        <Route path="/admin/dashboard/addBuku" element={<AddBuku/>}/>
+        <Route path="admin/dashboard/buku" element={<ListBukuAdmin/>}/>
         <Route path="/user/dashboard/buku/:id" element={<BukuDetail/>} />
         <Route path="/user/dashboard/buku/:id/keranjang" element={<AddKeranjang/>}/>
         <Route path="/user/dashboard/keranjang" element={<ListKeranjang/>}/>
