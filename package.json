@@ -2,8 +2,8 @@
   "name": "fe_buku",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://inimita.github.io/ujikomBuku/",
   "type": "module",
-  "homepage": "https://inimita.github.io/ujikomBuku",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
