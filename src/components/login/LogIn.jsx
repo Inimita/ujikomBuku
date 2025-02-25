@@ -83,7 +83,9 @@ const Login = () => {
                     </button>
                 </form>
                 <p className="mt-4 text-sm text-center">
-                    Belum punya akun? <a href="/" className="text-blue-500">Register</a>
+                    Belum punya akun? 
+                    <Link to="/" className="text-blue-500">Register</Link>
+
                 </p>
             </div>
         </div>
