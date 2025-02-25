@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basname="/ujikomBuku/">
       <Routes>
         <Route path="/" element={<Register/>} />
         <Route path="/login" element={<Login/>} />
