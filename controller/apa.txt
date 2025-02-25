@@ -1,0 +1,9 @@
+"gambar" : "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/9786024246945_Laut-Bercerita.png",
+  "judul" : "Laut Bercerita",
+  "penulis" : "Leila S. Chudori",
+  "genre" : "Fiksi, Sejarah",
+  "deskripsi" : "Buku ini terdiri atas dua bagian. Bagian pertama mengambil sudut pandang seorang mahasiswa aktivis bernama Laut, menceritakan bagaimana Laut dan kawan-kawannya menyusun rencana, berpindah-pindah dalam pelarian, hingga tertangkap oleh pasukan rahasia",
+  "harga" : 90000,
+  "stok" : 50
+
+  
